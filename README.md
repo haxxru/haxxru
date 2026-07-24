@@ -43,8 +43,4 @@
 </div>
 
 <h2>🧑‍💻 Contact</h2>
-<div align="center">
-  <a href="https://haxxru.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-</div>
+
