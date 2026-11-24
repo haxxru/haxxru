@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm haxxru 👋
+# I'm haxxru ☘️
 
 ### 만들고 끝내지 않고, 오래 잘 돌아가게 만듭니다.
 
